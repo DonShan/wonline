@@ -15,7 +15,7 @@ class _HomeViewState extends State<HomeView> {
         title: Text("Home"),
         actions: [
           Padding(
-            padding: const EdgeInsets.only(right: 20.0),
+            padding: const EdgeInsets.only(right: 30.0),
             child: GestureDetector(
               onTap: () {},
               child: const Icon(Icons.star),
